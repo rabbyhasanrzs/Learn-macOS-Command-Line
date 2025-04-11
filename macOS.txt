@@ -1,0 +1,14 @@
+///####------------> macOS Command line ---------------*****
+
+   --->
+        1) For see present working directory/path --> pwd
+        2) List of any directory --> ls
+        3) List of any directory also hidden file --> ls -a
+        4) For Creating a directory --> mkdir "folder name" 
+        5) For Creating a file --> ouch folderName.ext 
+        6) For Changing Directory --> cd “folder name”
+        7) For Exit Directory --> cd ..
+        8) For Deleting s Directory --> rm -r ”folder name”
+        9) For Deleting a File --> rm fileName.ext
+        10) Write something in file —-> echo “strings“ > fileName.ext
+        11) For see whats in file —-> cat fileName.ext
